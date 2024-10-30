@@ -8,6 +8,6 @@ let somaNotas = multNota1 + multNota2
 
 alert("Nome do aluno: " + nome
       "Nota 1: " + nota1
-      "Nota 2: " + nota2)
+      "Nota 2: " + nota2);
 alert("Nome do aluno: " + nome
-      "Nota final: " + somaNotas)
+      "Nota final: " + somaNotas);
