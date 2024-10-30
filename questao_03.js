@@ -10,4 +10,4 @@ alert("Nome do aluno: " + nome
       "Nota 1: " + nota1
       "Nota 2: " + nota2)
 alert("Nome do aluno: " + nome
-      "Nota total: " + somaNotas)
+      "Nota final: " + somaNotas)
